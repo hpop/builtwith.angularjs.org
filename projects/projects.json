@@ -2,6 +2,27 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Kickertool",
+    "thumb": "kickertool/thumb.png",
+    "desc": "Software for table soccer tournaments. Create round robin, MonsterDYP, and Last Man Standing tournaments with ease.",
+    "url": "http://kickertool.com/",
+    "submitter": "Helmut Poppen",
+    "submissionDate": "2014-07-16",
+    "tags": [
+      "SASS",
+      "Coffeescript",
+      "Production",
+      "Tournaments",
+      "Foosball",
+      "Local Storage",
+      "NodeJS",
+      "socket.io",
+      "HTML5",
+      "CSS3",
+      "node-webkit"
+    ]
+  },
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
